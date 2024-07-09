@@ -1,1 +1,8 @@
+// MacOS system file
 .DS_Store
+
+// Envrc
+.envrc
+
+// PSQL datafiles
+dbfiles/
