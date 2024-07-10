@@ -9,7 +9,6 @@ Welcome to my repository of SQL DB setups for the purpose of experimenting with 
 
 ## References
 
-* [Managing connections](https://go.dev/doc/database/manage-connections)
 * [SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 
 ## Disclaimer
