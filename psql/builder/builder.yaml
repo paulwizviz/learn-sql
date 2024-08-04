@@ -8,4 +8,4 @@ services:
       dockerfile: ./builder/psqlcmd.dockerfile
       args:
         OS_VER: ubuntu:22.04
-    image: ${PSQL_CLI_IMAGE:-go-db/psqlcmd:current}
+    image: ${PSQL_CLI_IMAGE:-learn-sql/psqlcmd:current}
