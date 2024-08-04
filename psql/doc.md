@@ -9,3 +9,10 @@ Here is the [official documentation](https://www.postgresql.org/docs/current/ref
 ## PostgreSQL Server 16.3 Documentation
 
 Here is the [official documentation](https://www.postgresql.org/docs/current/index.html)
+
+## Golang
+
+The following are working examples of Go applications interaction with PSQL.
+
+* [Connecting to PSQL using standard library](./golang/ex1/main.go)
+
