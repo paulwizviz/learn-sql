@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+
+  ex1:
+    build:
+      context: ../
+      dockerfile: ./builder/ex1.dockerfile
+      args:
+        GO_VER: 1.22.5-alpine3.19
+        OS_VER: 3.19.3
+    image: ${SQLITE_IMAGE:-learn-sql/ex1:current}
+
