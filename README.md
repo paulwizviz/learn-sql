@@ -1,11 +1,11 @@
 # Learn SQL: Concepts and Implementation Patterns
 
-This repository contains educational materials related to:
+This repository contains educational materials related to the following topics:
 
-* Concepts behind SQL databases
-* Techniques for Schema
-* Deployment strategies
-* Non functional considerations
+* [SQL](./docs/sql.md)
+* Databases
+  * [PostgreSQL](./docs/pg.md)
+  * [SQLite](./docs/sqlite.md)
 
 ## Disclaimer
 
