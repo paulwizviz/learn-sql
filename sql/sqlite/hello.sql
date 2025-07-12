@@ -1,0 +1,3 @@
+CREATE TABLE hello(
+    id INT PRIMARY KEY
+)

@@ -13,7 +13,7 @@ export POSTGRES_PASSWORD=postgres
 export PSQL_VER=17.3-alpine3.20
 export PGADMIN_VER=9.0.0
 
-export NETWORK=learn-postgress_psql
+export NETWORK=learn-sql_network
 
 COMMAND="$1"
 SUBCOMMAND="$2"

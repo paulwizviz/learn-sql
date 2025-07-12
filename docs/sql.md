@@ -1,6 +1,8 @@
 # SQL
 
-This section covers all things related to SQL.
+* [Type Differences](#type-differences)
+* [Statement Parameters Binding](#statement-parameter-binding)
+* [References](#references)
 
 ## Type Differences
 
@@ -23,6 +25,6 @@ Understanding the differences in SQL concepts and data types across various data
 | MySQL | ? | No | No | Yes (common in client libraries) |
 | PostgreSQL | No | $N | No | Yes (common in client libraries) |
 
-## Useful References
+## References
 
 * [Introduction to SQL](https://www.w3schools.com/sql/sql_intro.asp)
