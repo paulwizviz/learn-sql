@@ -1,11 +1,10 @@
 # Learn SQL: Concepts and Implementation Patterns
 
-This repository contains educational materials related to the following topics:
-
 * [SQL](./docs/sql.md)
 * Databases
   * [PostgreSQL](./docs/pg.md)
   * [SQLite](./docs/sqlite.md)
+* [Security](./docs/secure.md)
 
 ## Disclaimer
 
