@@ -10,8 +10,8 @@ export PGADMIN_DEFAULT_PASSWORD=admin
 export POSTGRES_USER=postgres
 export POSTGRES_PASSWORD=postgres
 
-export PSQL_VER=17.3-alpine3.20
-export PGADMIN_VER=9.0.0
+export PSQL_VER=18.1
+export PGADMIN_VER=9.11.0
 
 export NETWORK=learn-sql_network
 
