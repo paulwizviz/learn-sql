@@ -1,4 +1,4 @@
 .DS_Store
 
-deployments/pg/docker/single/dbfiles
+deployments/pg/single/dbfiles
 deployments/sqlite/db
