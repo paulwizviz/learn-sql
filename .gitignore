@@ -1,4 +1,9 @@
+# macOS
 .DS_Store
 
+# DrawIO
+.$*.drawio.bkp
+
+# Deployments
 deployments/pg/single/dbfiles
 deployments/sqlite/db
