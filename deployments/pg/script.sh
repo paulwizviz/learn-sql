@@ -11,7 +11,7 @@ export POSTGRES_USER=postgres
 export POSTGRES_PASSWORD=postgres
 
 export PSQL_VER=18.1-alpine3.23
-export PGADMIN_VER=9.11.0
+export PGADMIN_VER=9.10
 
 export NETWORK=learn-sql_network
 
